@@ -1,6 +1,6 @@
 # Alma OCLC Record Matcher
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsmyk/OCLC-data-reconciliation/blob/main/Matching%20Alma%20to%20OCLC%20records%20LAST%20update.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsmyk/OCLC-data-reconciliation/blob/main/Matching_Alma_to_OCLC_records_LAST_update.ipynb)
 
 A Python utility designed to evaluate and improve the precision of matching local library catalog records with OCLC data using multi-field validation.
 
